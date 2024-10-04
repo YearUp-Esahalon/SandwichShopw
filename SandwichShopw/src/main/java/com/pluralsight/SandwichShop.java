@@ -14,7 +14,7 @@ public class SandwichShop {
 
         float basePrice = 0;
         if (chooseSize.equals ("A")) {
-            basePrice = 5.45F;
+            basePrice = 5.45f;
         } else if (chooseSize.equals("B")) {
             basePrice = 8.95f;
         }
